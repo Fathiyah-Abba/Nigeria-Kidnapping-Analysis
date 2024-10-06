@@ -53,12 +53,26 @@ Security Agencies: To deploy resources more effectively.
 Policy Makers: To understand areas needing intervention.
 NGOs: To raise awareness and provide targeted support.
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Fathiyah-Abba/Nigeria-Kidnapping-Analysis.git
+### How to Run the Project
+To run this project on your local machine, follow these steps:
 
-   Contributions
+1. Clone the Repository: Start by cloning the repository to your local machine.
+   ```sh
+   git clone https://github.com/Fathiyah-Abba/Nigeria-Kidnapping-Analysis.git
+2. Install Dependencies: This project requires Python and some specific packages. You can install the required dependencies using pip:
+pip install -r requirements.txt
+Make sure you are in the correct directory where the requirements.txt file is located.
+
+3. Open the Notebook: If you are using Jupyter Notebook, navigate to the directory and open the analysis notebook:
+   jupyter notebook analysis.ipynb
+If you're using Visual Studio Code, you can simply open the .ipynb file in the editor.
+
+4. Run the Code: Run the cells in sequence to execute the analysis. Ensure the dataset file is in the same directory as the notebook, or adjust the file path accordingly.
+
+5. Results: The visualizations and analysis results will be generated as part of the notebook.
+Make sure to configure your Python environment correctly, and install any additional dependencies as needed.
+
+Contributions
 Contributions are welcome! Feel free to submit a pull request or open an issue for further discussions.
 
 License
