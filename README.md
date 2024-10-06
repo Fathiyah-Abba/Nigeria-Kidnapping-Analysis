@@ -73,6 +73,7 @@ If you're using Visual Studio Code, you can simply open the .ipynb file in the e
 Make sure to configure your Python environment correctly, and install any additional dependencies as needed.
 
 Contributions
+
 Contributions are welcome! Feel free to submit a pull request or open an issue for further discussions.
 
 License
